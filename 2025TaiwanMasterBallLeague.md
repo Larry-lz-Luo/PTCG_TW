@@ -39,7 +39,7 @@ R10: 莉莉艾的皮皮ex 後攻 W
 
 今年的心得最後，我還是要來喊一聲我隊友們都快聽膩的一句話： 『索羅想贏 😭』
 
-以上是來自古樂鳥戰隊的 [駱梨](https://www.facebook.com/luo.liju/)，我們活動於新北板橋或土城區，歡迎交流。  
+以上是來自古月鳥戰隊的 [駱梨](https://www.facebook.com/luo.liju/)，我們活動於新北板橋或土城區，歡迎交流。  
 隊長 [邱世鈞](https://www.facebook.com/shihchun.chiu.3) 快去創粉專。
 
 ## 對局 
