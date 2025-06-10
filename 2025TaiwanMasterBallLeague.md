@@ -17,7 +17,7 @@ R8: No show
 R9: 莉莉艾的皮皮ex 後攻 W  
 R10: 莉莉艾的皮皮ex 後攻 W  
 
-![](/pics/IMG_5964.JPG)
+![](/pics/IMG_5964.jpg)
 
 ## Day2
 - 32 強: 魔靈多龍ex 先攻開局 0-1-1 W  
