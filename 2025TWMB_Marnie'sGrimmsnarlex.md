@@ -85,11 +85,11 @@
 
 <table>
   <tr>
-    <td>
-       <img src="pics/S__2531851.jpg" width="500" align="left" style="margin-right: 30px;"/>
+    <td width="500" >
+       <img src="pics/S__2531851.jpg" />
     </td>
     <td>
-  <p>
+  <p >
   這套牌組是今年賽季最後台中高級球我所採用的配置，其實多少有點自己的想法和實驗性質在裡面。 
 
   * 採用一顆糖果與兩個演進的配置，強調要儘可能進行演進來爭取培養巨魔與雪妖女。
@@ -108,7 +108,7 @@
   </tr>
   <tr>
     <td>
-      <img src="pics/S__2531850.jpg" width="500" align="left" style="margin-right: 30px;"/>
+      <img src="pics/S__2531850.jpg" />
     </td>
     <td>
   <p>
